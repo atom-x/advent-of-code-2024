@@ -1,4 +1,3 @@
-import copy
 
 directions = {
     "^": (-1, 0, ">"),
